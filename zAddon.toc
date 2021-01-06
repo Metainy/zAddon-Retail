@@ -1,0 +1,18 @@
+## Interface: 90002
+## Title: |cffCC3333 z|rAddon
+## Version: 0.1 Beta
+## Notes: Simple all in one utility addon to improve Blizzard's default UI.
+## Author: Mody
+## DefaultState: Enabled
+## SavedVariables: zAddonDB
+## SavedVariablesPerCharacter: zAddonCharDB
+
+Config.lua
+Core.lua
+UI.lua
+Skins.lua
+Options.lua
+Resources.lua
+HealthBar.lua
+PowerBar.lua
+AltBar.lua
